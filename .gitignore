@@ -7,4 +7,3 @@ htmlcov
 .DS_Store
 venv
 .venv
-test*
