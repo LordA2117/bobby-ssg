@@ -6,3 +6,5 @@ htmlcov
 *.sw?
 .DS_Store
 venv
+.venv
+test*
